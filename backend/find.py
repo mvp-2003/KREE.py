@@ -1,1 +1,1 @@
-import backend.term as term
+from bs4 import BeautifulSoup
